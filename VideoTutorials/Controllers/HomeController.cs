@@ -17,10 +17,11 @@ namespace VideoTutorials.Controllers
         {
             return View();
         }
-
+        
         public ActionResult AdminIndex()
         {
-            return View();
+
+            return View()
         }
     }
 }

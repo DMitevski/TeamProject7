@@ -229,6 +229,10 @@
     <Content Include="Views\Home\AdminIndex.cshtml" />
     <Content Include="Views\Shared\_AdminNavigation.cshtml" />
     <Content Include="Views\Shared\_UserNavigation.cshtml" />
+    <Content Include="Views\Account\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout1.cshtml" />
+    <Content Include="Views\Categories\_ViewStart.cshtml" />
+    <Content Include="Views\Videos\_ViewStart.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
